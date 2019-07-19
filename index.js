@@ -9,7 +9,7 @@ function setBestCustomer() {
 function overwriteBestCustomer() {
   return bestCustomer = 'maybe bob' ;
 }
-let leastFavoriteCustomer = '';
+let leastFavoriteCustomer = 'TypeError';
 function changeLeastFavoriteCustomer() {
 return leastFavoriteCustomer ;
 }
