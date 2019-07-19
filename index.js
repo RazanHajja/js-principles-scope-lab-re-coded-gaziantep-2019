@@ -7,5 +7,5 @@ function setBestCustomer() {
   
 }
 function overwriteBestCustomer() {
-  return 
+  return bestCustomer = 
 }
