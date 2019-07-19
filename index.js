@@ -3,5 +3,6 @@ function upperCaseCustomerName() {
   return customerName = 'BOB';
 }
 function setBestCustomer() {
-  return bestCustomer = 
+  return bestCustomer = 'not bob' ;
+  
 }
