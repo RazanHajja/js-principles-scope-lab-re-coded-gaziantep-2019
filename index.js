@@ -1,1 +1,2 @@
-var customer
+var customerName;
+function 
