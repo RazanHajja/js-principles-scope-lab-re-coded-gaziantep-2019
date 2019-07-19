@@ -1,2 +1,4 @@
 var customerName;
-function 
+function upperCaseCustomerName() {
+  return customerName;
+}
