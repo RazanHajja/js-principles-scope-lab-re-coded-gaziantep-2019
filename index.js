@@ -9,6 +9,7 @@ function setBestCustomer() {
 function overwriteBestCustomer() {
   return bestCustomer = 'maybe bob' ;
 }
+let leastFavoriteCustomer = ''
 function changeLeastFavoriteCustomer() {
-  var leastFavoriteCustomer
+
 }
